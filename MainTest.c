@@ -8,5 +8,8 @@ void main ()
     
     xil_printf("Dr. Hummel is the bestest teacher EVER!!!\r\n");
 
+    xil_printf("Coolest feature is this right here");
+
+
 }
     
